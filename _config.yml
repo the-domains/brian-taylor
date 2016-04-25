@@ -1,6 +1,6 @@
 name: Brian Taylor
 favicon: null
-layout_spectrum: 0.67369
+layout_spectrum: 1
 typography_spectrum: 0.82963
 title: Brian Taylor - Digital Marketing Professional
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e0e5eb'
-    - '#1c1c1c'
-    - '#c5bfc1'
-    - '#515153'
-    - '#7b7d80'
+    - '#a99771'
+    - '#d1d1d3'
+    - '#201b18'
+    - '#775d2c'
+    - '#f0bb5b'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  lightness: 0.875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
