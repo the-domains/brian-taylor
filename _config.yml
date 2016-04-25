@@ -2,12 +2,13 @@ name: Brian Taylor
 favicon: null
 layout_spectrum: 0.9205866288393736
 typography_spectrum: 0.03822144097648561
+title: Brian Taylor - Digital Marketing Professional
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76885420-1
   facebook: null
   twitter: null
 opengraph:
