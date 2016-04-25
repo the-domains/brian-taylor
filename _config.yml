@@ -1,0 +1,28 @@
+name: Brian Taylor
+favicon: null
+layout_spectrum: 0.9205866288393736
+typography_spectrum: 0.03822144097648561
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.14364919648505747
+  lightness: 0.952238493366167
+  saturation: 0.6514205385465175
+  rhythmicContrast: 0.23770820233039558
+purpose: []
