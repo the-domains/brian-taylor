@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brian Taylor]]></title>
+        <description><![CDATA[Brian Taylor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 18:11:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Looking forward to getting on TheGrid!</p>]]></description>
+            <link>undefinedlooking-forward-to-getting-on-thegrid/index.html</link>
+            <guid isPermaLink="false">4fbb0816-8121-4576-a50c-e586cb5013da</guid>
+            <pubDate>Mon, 25 Apr 2016 18:11:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
