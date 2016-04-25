@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brian Taylor]]></title>
-        <description><![CDATA[Brian Taylor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Brian Taylor - Digital Marketing Professional]]></title>
+        <description><![CDATA[Brian Taylor - Digital Marketing Professional]]></description>
+        <link>https://thegrid.ai/brian-taylor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 18:11:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 19:21:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brian-taylor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft's new iPhone keyboard makes it easier to text with one hand]]></title>
+            <description><![CDATA[<article><h1>Microsoft's new iPhone keyboard makes it easier to text with one hand</h1><p>With Windows Phone a failure and Windows 10 Mobile going nowhere fast, Microsoft's newfound mission to dominate the iPhone with its own apps continues. Microsoft's newest app is a keyboard replacement called Word Flow. The free keyboard, currently only available in English in the U.S., is designed to make it easier to text with a single hand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b74a677a400fc5cdfad57883bb6c38209d95f3a7.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/04/25/microsoft-word-flow-iphone-keyboard/#jp4CC.PBzgqN</link>
+            <guid isPermaLink="false">4e2b04ba-b15a-4fe3-966a-0fac9305373f</guid>
+            <pubDate>Mon, 25 Apr 2016 19:21:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Looking forward to getting on TheGrid!</p>]]></description>
-            <link>undefinedlooking-forward-to-getting-on-thegrid/index.html</link>
+            <link>https://thegrid.ai/brian-taylor/looking-forward-to-getting-on-thegrid/index.html</link>
             <guid isPermaLink="false">4fbb0816-8121-4576-a50c-e586cb5013da</guid>
             <pubDate>Mon, 25 Apr 2016 18:11:45 GMT</pubDate>
         </item>
